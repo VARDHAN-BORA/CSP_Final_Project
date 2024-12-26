@@ -44,4 +44,4 @@ This repository contains the final project for my Master’s in AI course on *Co
 
 1. **Clone or Download** this repository.
    ```bash
-   git clone https://github.com/VARDHAN-BORA/CS---P-Final_Project.git
+   git clone https://https:/github.com/VARDHAN-BORA/CSP_Final_Project
